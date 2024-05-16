@@ -151,3 +151,7 @@ a:hover{
 .steps--background{
   background-color:#fef8f9;
 }
+.footer .border-highlight{
+  border-top:1px solid var(--primary-color-highlight);
+
+}
